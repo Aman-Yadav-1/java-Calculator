@@ -7,5 +7,7 @@ User has to give two numbers as input and
            1 for subtraction
            2 for multiplication
            3 for division
+and if none of input is correct the code executes the paramater where it prints the Invalid input case.
 
-          and if none of input is correct the code executes the paramater where it prints the Invalid input case.
+
+Main file is saved in src folder with main.java.
